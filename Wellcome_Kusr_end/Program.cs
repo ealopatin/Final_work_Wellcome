@@ -11,17 +11,37 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
+using System.Globalization;
+
 Console.Write("Введите количество элементов массива: ");
-int size = Convert.ToInt32(Console.ReadLine());
+int length = Convert.ToInt32(Console.ReadLine());
 
-int [] MakeNewArray (int size, int min, int max)
+string[] array = new string[length];
+
+for (int i = 0; i < length; i++)
 {
-    int [] makeNewArray = new int [size];
-
-    for(int i = 0; i < size; i++)
-    {
-        Console.Write($"Введите элемент массива {i}");
-        makeNewArray[i] = Convert.ToInt32(Console.ReadLine());
-    }
-    return makeNewArray;
+    Console.Write($"Введите элемент массива {i}: ");
+    array[i] = Console.ReadLine();
 }
+Console.WriteLine($"Массив: [{String.Join("; ", array)}]");
+
+
+int length2 = 0;
+string[] secondArray= new string[length2];
+for (int i = 0; i < length; i++)
+{
+    if (array[i].Length <= 3)
+    {
+        secondArray[j] = 0;
+    }
+}
+// string[] secondArray= new string[length2];
+// for (int i = 0; i < length; i++)
+// {
+//     if (array[i].Length <= 3)
+//     {
+//         length2 = 0;
+//     }
+// }
+
+Console.WriteLine($"Массив: [{String.Join("; ", secondArray)}]");
