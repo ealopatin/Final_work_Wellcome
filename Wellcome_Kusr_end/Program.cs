@@ -28,28 +28,28 @@ Console.WriteLine($"Заданный массив: [{String.Join("; ", array)}]"
 
 // Считаем длинну нового массива
 
-int length2 = 0;
+int lengthResultArray = 0;
 for (int i = 0; i < length; i++)
 {
     if (array[i].Length <= 3)
     {
-        length2++;
+        lengthResultArray++;
     }
 }
 
 // Запополням и печатем массив
 
-string[] secondArray = new string[length2];
+string[] resultArray = new string[lengthResultArray];
 int j = 0;
 for (int i = 0; i < length; i++)
 {
     if (array[i].Length <= 3)
     {
-        secondArray[j] = array[i];
+        resultArray[j] = array[i];
         j++;
     }
 }
 Console.WriteLine();
-Console.WriteLine($"Массив: [{String.Join("; ", secondArray)}]");
+Console.WriteLine($"Результирующий Массив: [{String.Join("; ", resultArray)}]");
 Console.WriteLine();
 
