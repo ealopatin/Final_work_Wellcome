@@ -1,0 +1,15 @@
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\bin\Debug\net7.0\Wellcome_Kusr_end.exe
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\bin\Debug\net7.0\Wellcome_Kusr_end.deps.json
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\bin\Debug\net7.0\Wellcome_Kusr_end.runtimeconfig.json
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\bin\Debug\net7.0\Wellcome_Kusr_end.dll
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\bin\Debug\net7.0\Wellcome_Kusr_end.pdb
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.csproj.AssemblyReference.cache
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.AssemblyInfoInputs.cache
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.AssemblyInfo.cs
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.csproj.CoreCompileInputs.cache
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.dll
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\refint\Wellcome_Kusr_end.dll
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.pdb
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\Wellcome_Kusr_end.genruntimeconfig.cache
+C:\Users\mefes\Dropbox\ПК\Desktop\Обучение GeekBrains\Знакомство с языком программирования\Wellcome_kurs_end\Wellcome_Kusr_end\obj\Debug\net7.0\ref\Wellcome_Kusr_end.dll
